@@ -9,7 +9,3 @@
 
 ## Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atnet26&layout=compact&theme=radical)
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourprofile)
